@@ -1,3 +1,5 @@
+<!-- Adapted by Kangcheng Liu -->
+
 # Deep Learning for Localization and Mapping
 
 ![image](image/concept_figure.png)
