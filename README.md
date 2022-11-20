@@ -1,8 +1,11 @@
-<!-- Adapted by Kangcheng Liu -->
+
 
 # Deep Learning for Localization and Mapping
 
+ This repo is maintained, adapted, and updated by [Dr. Kangcheng Liu](https://scholar.google.com/citations?hl=en&user=qq2aoesAAAAJ&view_op=list_works&sortby=pubdate).
+ 
 ![image](image/concept_figure.png)
+
 This repository is a collection of deep learning based localization and mapping approaches. A survey is offered in the following paper:
 
 >A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence
