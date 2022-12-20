@@ -1,26 +1,19 @@
-
-
 # Deep Learning for Localization and Mapping
+
 
  This repo is maintained, adapted, and updated by [Dr. Kangcheng Liu](https://scholar.google.com/citations?hl=en&user=qq2aoesAAAAJ&view_op=list_works&sortby=pubdate).
  
+ 
 ![image](image/concept_figure.png)
 
-This repository is a collection of deep learning based localization and mapping approaches. A survey is offered in the following paper:
-
->A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence
- >
- >[Changhao Chen](http://www.cs.ox.ac.uk/people/changhao.chen/website/), [Bing Wang](https://www.cs.ox.ac.uk/people/bing.wang/), [Chris Xiaoxuan Lu](https://christopherlu.github.io/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/)
- >
- >**arXiv:2006.12567** [[PDF](https://arxiv.org/abs/2006.12567)]
-
-This survey is also briefly introduced in Chinese [[Zhihu](https://zhuanlan.zhihu.com/p/152754491)]
 
 ## News
 ### Update: Jun-22-2020
 - We released our survey paper.
 
+
 ## TO DO
+
 
 ## Category
 - [Odometry Estimation](#Odometry-Estimation)
@@ -52,6 +45,8 @@ This survey is also briefly introduced in Chinese [[Zhihu](https://zhuanlan.zhih
     archivePrefix={arXiv},
     primaryClass={cs.CV}
     }
+
+
 
   
 ## Categorized by Topic
@@ -267,7 +262,9 @@ This survey is also briefly introduced in Chinese [[Zhihu](https://zhuanlan.zhih
 | DCP | 2019 | CVPR | [Deep closest point: Learning representations for point cloud registration](https://arxiv.org/abs/1905.03304) | |
 | D3Feat | 2020 | CVPR | [D3feat: Joint learning of dense detection and description of 3d local features](https://arxiv.org/abs/2003.03164) | |
 
+
 ### SLAM
+
 
 #### Local Optimization
 | Models   |Date| Publication| Paper | Code |
@@ -284,6 +281,7 @@ This survey is also briefly introduced in Chinese [[Zhihu](https://zhuanlan.zhih
 | DeepFactors | 2020 | RA-L | [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/abs/2001.05049) | |
 
 
+
 #### Keyframe and Loop-closure Detection
 | Models   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|
@@ -292,6 +290,7 @@ This survey is also briefly introduced in Chinese [[Zhihu](https://zhuanlan.zhih
 | Huang et al. | 2018 | RSS | [Lightweight unsupervised deep loop closure](https://arxiv.org/abs/1805.07703) | |
 | Sheng et al. | 2019 | ICCV | [Unsupervised Collaborative Learning of Keyframe Detection and Visual Odometry Towards Monocular Deep SLAM](http://openaccess.thecvf.com/content_ICCV_2019/html/Sheng_Unsupervised_Collaborative_Learning_of_Keyframe_Detection_and_Visual_Odometry_Towards_ICCV_2019_paper.html) | |
 | Memon et al. | 2020 | RAS | [Loop closure detection using supervised and unsupervised deep neural networks for monocular slam systems](https://www.sciencedirect.com/science/article/abs/pii/S0921889019308425) | |
+
 
 #### Uncertainty Estimation
 | Models   |Date| Publication| Paper | Code |
@@ -302,6 +301,3 @@ This survey is also briefly introduced in Chinese [[Zhihu](https://zhuanlan.zhih
 | Wang et al. | 2018 | IJRR | [End-to-end, sequenceto-sequence probabilistic visual odometry through deep neural networks](https://researchportal.hw.ac.uk/en/publications/end-to-end-sequence-to-sequence-probabilistic-visual-odometry-thr) | |
 | Chen et al. | 2019 | TMC | [Deep neural network based inertial odometry using low-cost inertial measurement units](http://www.cs.ox.ac.uk/files/11501/DNN_IONet.pdf) | |
 
-This list is maintained by [Changhao Chen](http://www.cs.ox.ac.uk/people/changhao.chen/website/) and [Bing Wang](http://www.cs.ox.ac.uk/people/bing.wang/), Department of Computer Science, University of Oxford.
-
-Please contact them (email: changhao.chen@cs.ox.ac.uk; bing.wang@cs.ox.ac.uk), if you have any question or would like to add your work on this list.
